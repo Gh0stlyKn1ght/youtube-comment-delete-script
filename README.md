@@ -1,5 +1,16 @@
 # youtube-comment-delete-script
 
+## 🧪 Troubleshooting
+
+### ⚠️ I see "CORS request blocked" errors in the console
+No worries! These are unrelated to the script and are caused by external resources on the page. The script works fine despite these.
+
+### ❌ Script runs but doesn't delete anything
+- Make sure you're on the [YouTube My Activity page](https://myactivity.google.com/myactivity?product=21)
+- Confirm that items have a delete option (hover over them to check)
+- Filter activity to "YouTube" only
+- Try refreshing the page and running the script again
+
 
 ```
 (async function autoDeleteYouTubeComments() {
