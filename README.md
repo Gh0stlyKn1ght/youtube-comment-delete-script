@@ -6,10 +6,14 @@
 No worries! These are unrelated to the script and are caused by external resources on the page. The script works fine despite these.
 
 ### ❌ Script runs but doesn't delete anything
-- Make sure you're on the [YouTube My Activity page](https://myactivity.google.com/myactivity?product=21)
+- Make sure you're on My activity > other Activity > scroll down to youtube comments
 - Confirm that items have a delete option (hover over them to check)
-- Filter activity to "YouTube" only
-- Try refreshing the page and running the script again
+- Press F12 to bring up developer mode
+- copy and paste the script
+
+- USE AT YOUR OWN RISK!!!
+
+  github.com/GhostlyKn1ght
 
 
 ```
